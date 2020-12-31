@@ -1,0 +1,1 @@
+You can just open the wav file in audacity and then select spectrogram (its in the drop down above mute and solo should read unknown)
